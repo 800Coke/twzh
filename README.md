@@ -90,6 +90,7 @@ twzh/
 ├── index.html         # 完整应用（包含HTML、CSS、JavaScript）
 ├── README.md          # 项目文档
 ├── LICENSE            # 开源协议
+├── package.json       # 项目元数据
 └── .nojekyll          # GitHub Pages配置
 ```
 
@@ -124,7 +125,7 @@ twzh/
 欢迎提交 Issue 和 Pull Request！
 
 ### 如何改进：
-- 🎨 添加新的宠物角色
+- 🎨 添加新的宠物���色
 - 🎯 优化文本转换算法
 - 🌍 多语言支持
 - 📱 界面改进建议

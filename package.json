@@ -1,0 +1,25 @@
+{
+  "name": "twzh",
+  "version": "1.0.0",
+  "description": "🐱🐶 喵汪图说生成器 - 把小说变成可爱的猫猫狗狗图说",
+  "keywords": [
+    "cat",
+    "dog",
+    "story",
+    "generator",
+    "tool",
+    "web-app",
+    "chinese",
+    "fun"
+  ],
+  "author": "800Coke",
+  "license": "MIT",
+  "homepage": "https://github.com/800Coke/twzh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/800Coke/twzh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/800Coke/twzh/issues"
+  }
+}
